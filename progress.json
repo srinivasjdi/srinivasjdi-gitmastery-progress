@@ -7,14 +7,5 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "undo-init",
-    "started_at": 1767200424.281419,
-    "completed_at": 1767200426.11185,
-    "comments": [
-      "Exercise is not a Git repository"
-    ],
-    "status": "Error"
   }
 ]
